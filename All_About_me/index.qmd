@@ -1,48 +1,38 @@
 # UTS-1: All About Me
 
-Muhammad Adli Arindra, atau biasa dipanggil Adli, adalah mahasiswa Sistem dan Teknologi Informasi angkatan 2022 yang saat ini sedang menempuh semester tujuh di ITB. Lahir di Bandung pada 20 Mei 2004, Adli berusia 21 tahun. Meski memiliki darah Batak dan Padang, ia tumbuh besar di Bandung sehingga sifat Sunda-nya melekat kuat dalam kesehariannya.  
-
-Sejak kecil, Adli sudah memiliki ketertarikan besar pada komputer. Ketertarikan ini terus berkembang seiring waktu. Saat SMP, ia mencoba membuat game sederhana, dan ketika SMA sering mengikuti **game jam**, terutama selama pandemi COVID-19, yang memberinya banyak waktu untuk bereksperimen dan belajar hal-hal baru. Pengalaman ini menumbuhkan rasa penasaran dan kegigihan yang membentuk karakternya hingga sekarang. Kini, Adli juga mulai menjelajahi dunia **kecerdasan buatan (AI)** dan berbagai proyek programming yang menantang. Cita-citanya adalah menjadi seorang profesional teknologi yang kreatif, mampu menciptakan solusi inovatif, dan memberikan kontribusi positif bagi lingkungan sekitar.
+Halo! Nama saya Muhammad Adli Arindra, atau biasa dipanggil Adli. Saya mahasiswa Sistem dan Teknologi Informasi angkatan 2022 di ITB, saat ini sedang menempuh semester tujuh. Saya lahir di Bandung pada 20 Mei 2004, berusia 21 tahun. Meski memiliki darah Batak dan Padang, saya tumbuh besar di Bandung sehingga sifat Sunda-nya melekat kuat dalam keseharian saya.  
 
 ---
 
-## Perjalanan Akademik dan Kesadaran Diri
+## Musik
+Musik selalu menjadi bagian penting dalam hidup saya. Sejak kecil, saya senang mendengarkan berbagai jenis lagu dan mencoba memainkan musik sendiri di piano. Bermain piano menjadi cara saya mengekspresikan diri dan melepas penat setelah hari yang sibuk. Salah satu lagu favorit saya adalah **“Kasih Aba-Aba” oleh Tenxi**, karena mengajarkan tentang pentingnya komunikasi yang jelas dan perhatian terhadap orang lain. Lagu ini mengingatkan saya bahwa memberi aba-aba atau tanda sederhana bisa membuat interaksi sehari-hari lebih harmonis.  
 
-Sejak SD, Adli bukanlah siswa yang selalu berada di peringkat atas. Ia cukup berprestasi untuk masuk salah satu SMP favorit, tetapi saat SMP, ranking-nya turun jauh. Kondisi ini membuatnya melanjutkan ke SMA swasta, di mana ranking akademiknya tetap berada di bawah rata-rata. Ia sering merasa **tidak akademis**, merasa tertinggal, dan kerap kesulitan memahami pelajaran dibanding teman-temannya yang tampaknya lebih cepat menangkap konsep baru.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDSUmX2zOGk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
-Momen penting terjadi saat pengumuman **SNMPTN**. Ia tidak menaruh banyak harapan, namun ketika melihat teman-teman sebayanya diterima, rasa tertinggal itu terasa lebih nyata dan menyakitkan. Perasaan ini menjadi titik balik yang membangkitkan tekad Adli untuk belajar lebih serius.  
-
-Adli mulai memaksa diri untuk belajar secara konsisten. Awalnya, hanya **satu jam per hari**, kemudian meningkat menjadi dua jam, dan akhirnya bisa mencapai **12 jam sehari** dengan latihan soal intensif. Ia belajar dari kesalahan, mencoba metode baru, dan perlahan-lahan mulai memahami pelajaran yang sebelumnya terasa sulit. Dari yang dulu merasa tidak mengerti apa-apa, kini ia menjadi sosok yang sering ditanya teman-temannya karena mereka percaya pada kemampuannya.  
-
-Saat itu, Adli menyadari satu hal penting:  
-
-> "Ternyata belajar itu asik!"
-
-Ia memahami bahwa selama ini ia tidak pernah tertinggal; ia hanya belum menemukan cara belajar yang menyenangkan dan efektif. **Momen 'Aha!'** saat akhirnya mengerti sesuatu menjadi sangat memuaskan, jauh lebih berharga dibanding waktu dan tenaga yang dikeluarkan. Sejak saat itu, belajar bukan lagi sekadar kewajiban, tetapi sebuah aktivitas yang menantang, memuaskan, dan bahkan menyenangkan.  
-
-Selain belajar akademis, Adli juga belajar tentang **disiplin diri, kesabaran, dan ketekunan**. Ia menyadari bahwa kemampuan seseorang tidak selalu diukur dari seberapa cepat ia memahami sesuatu, tetapi seberapa konsisten ia mau mencoba dan memperbaiki diri. Proses ini juga mengajarkannya untuk tidak terlalu membandingkan diri dengan orang lain, melainkan fokus pada pertumbuhan pribadi.
+Selain itu, saya juga suka mengaransemen lagu sendiri dan kadang bereksperimen membuat melodi baru. Musik bukan hanya hiburan, tapi juga inspirasi yang membuat saya kreatif dalam berbagai hal, termasuk programming.  
 
 ---
 
-## Masuk ITB dan Mengejar Passion
+## Coding & Teknologi
+Sejak SMP saya sudah tertarik dengan komputer, dan minat ini terus berkembang hingga sekarang. Saat SMP, saya mencoba membuat game sederhana, dan ketika SMA sering ikut **game jam**, terutama selama pandemi COVID-19. Pengalaman ini memberi saya kesempatan untuk bereksperimen, belajar logika, dan menantang diri sendiri.  
 
-Berkat usaha, konsistensi, dan tekadnya, Adli berhasil diterima di **ITB**, tepatnya di jurusan yang ia impikan. Pengalaman belajar keras sebelumnya memberinya kepercayaan diri bahwa ia mampu menghadapi tantangan perkuliahan. Di sini, Adli dapat mengembangkan minat dan kemampuan dalam **programming**, yang telah menjadi passion-nya sejak lama. Ia mulai mengerjakan proyek-proyek personal dan kolaboratif, serta bereksperimen dengan AI dan teknologi terbaru.  
-
-Selain aspek akademik, Adli juga belajar pentingnya **manajemen waktu, kerja tim, dan komunikasi**. Ia mulai memahami bahwa menjadi seorang profesional teknologi bukan hanya soal kemampuan teknis, tetapi juga tentang bagaimana berinteraksi dengan orang lain, membagi tugas, dan menyelesaikan masalah secara bersama-sama.  
-
-Kini, Adli tidak hanya fokus pada penguasaan ilmu, tetapi juga pada **kontribusi sosial**. Ia percaya bahwa teknologi harus bermanfaat bagi lingkungan sekitar, dan ia ingin suatu saat dapat menciptakan solusi yang memberikan dampak positif bagi banyak orang.  
+Di ITB, saya mengambil jurusan STEI-K dan semakin mendalami **programming** serta **AI**. Saya aktif mengikuti kompetisi pemrograman kompetitif dan data science untuk mengasah kemampuan serta menghadapi tantangan nyata. Coding bagi saya bukan sekadar belajar bahasa pemrograman, tapi juga latihan kreativitas dan problem solving. Setiap proyek yang berhasil membuat saya merasa bangga, apalagi ketika bisa diterapkan untuk membantu orang lain atau membangun sesuatu yang bermanfaat.  
 
 ---
 
-## Refleksi dan Pelajaran Hidup
+## Teman & Sosial
+Selain belajar dan coding, saya juga menikmati waktu bersama teman-teman. Saya suka nongkrong, jalan-jalan, dan mencoba berbagai aktivitas baru bersama mereka. Momen-momen ini penting untuk menjaga keseimbangan hidup, memberi inspirasi, dan kadang ide untuk proyek kreatif muncul dari percakapan santai dengan teman.  
 
-Perjalanan Adli mengajarkan beberapa hal penting:
-
-- **Belajar itu menyenangkan dan menantang**. Momen memahami sesuatu (“Aha!”) jauh lebih rewarding dibanding tenaga dan waktu yang dihabiskan.  
-- **Ketekunan lebih penting daripada bakat bawaan**. Konsistensi dalam berusaha dapat menutup gap antara diri sendiri dan orang lain.  
-- **Fokus pada pertumbuhan pribadi**, bukan perbandingan dengan orang lain, membuat proses belajar lebih sehat dan bermakna.  
-- **Passion dan kontribusi** memberi motivasi lebih dari sekadar prestasi akademik.  
-
-Dari rasa tertinggal menjadi motivasi, dari kesulitan belajar menjadi kesenangan, hingga menemukan passion yang membawanya terus berkembang—itulah kisah Muhammad Adli Arindra sejauh ini. Ia terus belajar, berinovasi, dan berusaha memberikan yang terbaik, baik untuk dirinya sendiri maupun lingkungan di sekitarnya.  
+Saya percaya, memiliki lingkungan sosial yang positif dan supportif membantu saya lebih percaya diri dan termotivasi. Aktivitas sosial juga mengajarkan saya tentang kerja sama, komunikasi, dan bagaimana menghargai perbedaan orang lain.  
 
 ---
+
+## Keluarga
+Keluarga adalah fondasi utama dalam hidup saya. Saya memiliki keluarga yang selalu mendukung, terutama **mama**, yang menjadi motivasi terbesar saya. Semua pencapaian dan usaha saya tidak lepas dari dorongan dan kasih sayang mereka.  
+
+Mama selalu mengingatkan untuk tetap rendah hati, tekun, dan konsisten dalam usaha. Dukungan keluarga membuat saya berani menghadapi tantangan dan tidak mudah menyerah. Saya percaya bahwa memiliki keluarga yang mendukung adalah salah satu kunci kesuksesan dan kebahagiaan dalam hidup.  
+
+---
+
+## Kesimpulan
+Setiap bagian dalam hidup saya seperti musik, coding, teman, dan keluarga memberi warna dan inspirasi yang berbeda. Mereka membentuk siapa saya sekarang: seorang mahasiswa yang ingin terus belajar, berinovasi, dan memberikan dampak positif bagi lingkungan sekitar. Dengan kombinasi minat, pengalaman, dan dukungan dari orang-orang terdekat, saya terus berusaha menjadi versi terbaik dari diri saya.

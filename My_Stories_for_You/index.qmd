@@ -1,12 +1,44 @@
 # UTS-3 My Stories for You
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+---
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+## Perjalanan Akademik dan Kesadaran Diri
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+Sejak SD, Adli bukanlah siswa yang selalu berada di peringkat atas. Ia cukup berprestasi untuk masuk salah satu SMP favorit, tetapi saat SMP, ranking-nya turun jauh. Kondisi ini membuatnya melanjutkan ke SMA swasta, di mana ranking akademiknya tetap berada di bawah rata-rata. Ia sering merasa **tidak akademis**, merasa tertinggal, dan kerap kesulitan memahami pelajaran dibanding teman-temannya yang tampaknya lebih cepat menangkap konsep baru.  
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+Momen penting terjadi saat pengumuman **SNMPTN**. Ia tidak menaruh banyak harapan, namun ketika melihat teman-teman sebayanya diterima, rasa tertinggal itu terasa lebih nyata dan menyakitkan. Perasaan ini menjadi titik balik yang membangkitkan tekad Adli untuk belajar lebih serius.  
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+Adli mulai memaksa diri untuk belajar secara konsisten. Awalnya, hanya **satu jam per hari**, kemudian meningkat menjadi dua jam, dan akhirnya bisa mencapai **12 jam sehari** dengan latihan soal intensif. Ia belajar dari kesalahan, mencoba metode baru, dan perlahan-lahan mulai memahami pelajaran yang sebelumnya terasa sulit. Dari yang dulu merasa tidak mengerti apa-apa, kini ia menjadi sosok yang sering ditanya teman-temannya karena mereka percaya pada kemampuannya.  
+
+Saat itu, Adli menyadari satu hal penting:  
+
+> "Ternyata belajar itu asik!"
+
+Ia memahami bahwa selama ini ia tidak pernah tertinggal; ia hanya belum menemukan cara belajar yang menyenangkan dan efektif. **Momen 'Aha!'** saat akhirnya mengerti sesuatu menjadi sangat memuaskan, jauh lebih berharga dibanding waktu dan tenaga yang dikeluarkan. Sejak saat itu, belajar bukan lagi sekadar kewajiban, tetapi sebuah aktivitas yang menantang, memuaskan, dan bahkan menyenangkan.  
+
+Selain belajar akademis, Adli juga belajar tentang **disiplin diri, kesabaran, dan ketekunan**. Ia menyadari bahwa kemampuan seseorang tidak selalu diukur dari seberapa cepat ia memahami sesuatu, tetapi seberapa konsisten ia mau mencoba dan memperbaiki diri. Proses ini juga mengajarkannya untuk tidak terlalu membandingkan diri dengan orang lain, melainkan fokus pada pertumbuhan pribadi.
+
+---
+
+## Masuk ITB dan Mengejar Passion
+
+Berkat usaha, konsistensi, dan tekadnya, Adli berhasil diterima di **ITB**, tepatnya di jurusan yang ia impikan. Pengalaman belajar keras sebelumnya memberinya kepercayaan diri bahwa ia mampu menghadapi tantangan perkuliahan. Di sini, Adli dapat mengembangkan minat dan kemampuan dalam **programming**, yang telah menjadi passion-nya sejak lama. Ia mulai mengerjakan proyek-proyek personal dan kolaboratif, serta bereksperimen dengan AI dan teknologi terbaru.  
+
+Selain aspek akademik, Adli juga belajar pentingnya **manajemen waktu, kerja tim, dan komunikasi**. Ia mulai memahami bahwa menjadi seorang profesional teknologi bukan hanya soal kemampuan teknis, tetapi juga tentang bagaimana berinteraksi dengan orang lain, membagi tugas, dan menyelesaikan masalah secara bersama-sama.  
+
+Kini, Adli tidak hanya fokus pada penguasaan ilmu, tetapi juga pada **kontribusi sosial**. Ia percaya bahwa teknologi harus bermanfaat bagi lingkungan sekitar, dan ia ingin suatu saat dapat menciptakan solusi yang memberikan dampak positif bagi banyak orang.  
+
+---
+
+## Refleksi dan Pelajaran Hidup
+
+Perjalanan Adli mengajarkan beberapa hal penting:
+
+- **Belajar itu menyenangkan dan menantang**. Momen memahami sesuatu (“Aha!”) jauh lebih rewarding dibanding tenaga dan waktu yang dihabiskan.  
+- **Ketekunan lebih penting daripada bakat bawaan**. Konsistensi dalam berusaha dapat menutup gap antara diri sendiri dan orang lain.  
+- **Fokus pada pertumbuhan pribadi**, bukan perbandingan dengan orang lain, membuat proses belajar lebih sehat dan bermakna.  
+- **Passion dan kontribusi** memberi motivasi lebih dari sekadar prestasi akademik.  
+
+Dari rasa tertinggal menjadi motivasi, dari kesulitan belajar menjadi kesenangan, hingga menemukan passion yang membawanya terus berkembang—itulah kisah Muhammad Adli Arindra sejauh ini. Ia terus belajar, berinovasi, dan berusaha memberikan yang terbaik, baik untuk dirinya sendiri maupun lingkungan di sekitarnya.  
+
+---
