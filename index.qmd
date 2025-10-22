@@ -2,6 +2,15 @@
 
 Halo! Saya Muhammad Adli Arindra, NIM 18222089. Selamat datang di halaman UTS saya.
 
-Di sini, Anda bisa mengenal sedikit tentang saya dan perjalanan belajar saya. Semoga halaman ini memberikan gambaran singkat namun jelas tentang siapa saya dan apa yang saya kerjakan.
+Di sini, Anda bisa mengenal sedikit tentang saya dan perjalanan belajar saya.  
+Klik bagian-bagian berikut untuk menjelajah lebih lanjut:
+
+- [Tentang Saya](All_About_me/)  
+- [My Songs for You](My_Song_for_You/)  
+- [My Stories for You](My_Stories_for_You/)  
+- [My SHAPE](My_Shapes/)  
+- [My Personal Reviews](My_Personal_Reviews/)  
+
+Semoga halaman ini memberikan gambaran singkat namun jelas tentang siapa saya dan apa yang saya kerjakan.
 
 Selamat menjelajah!
