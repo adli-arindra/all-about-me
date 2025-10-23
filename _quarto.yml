@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   resources:
-    - My_Personal_Reviews/peer_review.xlsx 
+    - My_Personal_Reviews/peer_review.xlsx
 
 book:
   title: "All About Adli"

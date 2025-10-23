@@ -153,4 +153,4 @@ Area pengembangan yang bisa dipertimbangkan:
 
 ## Peer Review
 
-Rekap skor lengkap tersedia dalam format CSV: [Download CSV ringkasan](peer_review.csv)
+Rekap skor lengkap tersedia dalam format CSV: [Download CSV ringkasan](peer_review.xlsx)
