@@ -151,6 +151,6 @@ Area pengembangan yang bisa dipertimbangkan:
 
 ---
 
-## Dokumentasi Tambahan
+## Peer Review
 
-Rekap skor lengkap tersedia dalam format CSV: [Download CSV ringkasan](UTS_self_assessment.csv)
+Rekap skor lengkap tersedia dalam format CSV: [Download CSV ringkasan](peer_review.csv)
