@@ -1,2 +1,70 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+
+Halaman ini berisi ulasan dan penilaian terhadap empat karya utama yang saya susun, mencakup aspek konsep, opini, inovasi, dan pengetahuan. Penilaian dilakukan menggunakan rubrik yang telah ditentukan dengan fokus pada kualitas isi, kejelasan penyampaian, dan kontribusi pemikiran.
+
+---
+
+## 1. My Concepts  
+**URL:** https://adli-arindra.github.io/all-about-me/My_Concepts/
+
+- **UAS-1_Clarity:** **4.5 / 5**  
+- **UAS-1_Logic:** **4.5 / 5**  
+- **UAS-1_Validity:** **4.0 / 5**  
+- **UAS-1_Usefulness:** **4.5 / 5**
+
+Review
+Halaman ini menyajikan konsep secara jelas dan terstruktur dengan alur pemikiran yang logis. Hubungan antara kesadaran, pengetahuan, dan tindakan dijelaskan dengan baik serta relevan dengan isu yang dibahas. Secara keseluruhan, konten bersifat reflektif, koheren, dan bermanfaat sebagai dasar pemahaman konseptual.
+
+---
+
+## 2. My Opinions  
+**URL:** https://adli-arindra.github.io/all-about-me/My_Opinions/
+
+- **UAS-2_Compelling:** **4.5 / 5**  
+- **UAS-2_Informatif:** **4.5 / 5**  
+- **UAS-2_Persuasif:** **4.5 / 5**  
+- **UAS-2_Engaging:** **4.0 / 5**
+
+Review
+Opini disampaikan dengan sudut pandang yang kuat dan argumentatif. Informasi yang diberikan relevan dan mampu membangun argumen yang persuasif. Gaya penulisan cukup menarik dan menunjukkan keberanian dalam menyampaikan pandangan pribadi secara rasional.
+
+---
+
+## 3. My Innovations  
+**URL:** https://adli-arindra.github.io/all-about-me/My_Innovations/
+
+- **UAS-3_Guna:** **4.5 / 5**  
+- **UAS-3_Kebaruan:** **4.0 / 5**  
+- **UAS-3_Desain:** **4.5 / 5**  
+- **UAS-3_Dampak:** **4.5 / 5**
+
+Review
+Inovasi yang diajukan memiliki kegunaan yang jelas dan relevan dengan permasalahan nyata. Ide disampaikan dengan desain yang rapi dan mudah dipahami. Dampak potensialnya cukup besar apabila diterapkan secara luas, menunjukkan pemikiran solutif dan aplikatif.
+
+---
+
+## 4. My Knowledge  
+**URL:** https://adli-arindra.github.io/all-about-me/My_Knowledge/
+
+- **UAS-4_Kurasi:** **4.0 / 5**  
+- **UAS-4_Kejelasan:** **4.5 / 5**  
+- **UAS-4_Akurasi:** **4.5 / 5**  
+- **UAS-4_Daya_Guna:** **4.0 / 5**
+
+Review
+Konten pengetahuan disajikan secara jelas dan akurat dengan struktur yang mudah diikuti. Materi yang dipilih relevan dan mendukung pemahaman pembaca. Halaman ini berfungsi sebagai fondasi konseptual yang memperkuat keseluruhan karya.
+
+---
+
+## Ringkasan Penilaian
+
+| Halaman | Rata-rata Skor |
+|-------|----------------|
+| My Concepts | **4.4** |
+| My Opinions | **4.4** |
+| My Innovations | **4.4** |
+| My Knowledge | **4.25** |
+
+## Peer Review
+
+Rekap skor lengkap tersedia dalam format CSV: [Download CSV ringkasan](review.xlsx)
